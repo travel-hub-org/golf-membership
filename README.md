@@ -1,3 +1,3 @@
-# Golf - Membership
-This repository contains the "Bli Medlem" (Membership) page of the Tyrifjord Golfklubb website. 
-It provides information about membership types, benefits, pricing, and instructions on how to join the club.
+# Evergreen Garden – Catalog Page
+This repository contains the “Catalog” page of the Evergreen Garden website.
+It provides information about the available plants, trees, and garden products, including descriptions, pricing, categories, and instructions on how to purchase or order from the garden.
